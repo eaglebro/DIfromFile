@@ -1,0 +1,6 @@
+<beans>
+    <bean id="company" class="com.nero.Company">
+        <property name="cname" value="心大公司"/>
+        <property name="location" value="xx区"/>
+    </bean>
+</beans>
